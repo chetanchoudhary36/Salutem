@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "378490177803",
+    "firebase_url": "https://bledevice-540b0.firebaseio.com",
+    "project_id": "bledevice-540b0",
+    "storage_bucket": "bledevice-540b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378490177803:android:f6b6a97569e0ccd219ba0e",
+        "android_client_info": {
+          "package_name": "com.kiwi.flutterscanbluetoothexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378490177803-qmahnlm3sims0dlhjfkldfd0qdppkhu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu7z_MgqM_O9YVM02yhKcUmNYl2lqT-H4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378490177803-qmahnlm3sims0dlhjfkldfd0qdppkhu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
